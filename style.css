@@ -192,7 +192,7 @@
             flex: 1;
             height: 500px;
             border-radius: 10px;
-            background: url('./vazhiyarikil/section1.png') center/cover no-repeat;
+            background: url('./Vazhiyarikil/section1.png') center/cover no-repeat;
             box-shadow: var(--shadow);
         }
 
@@ -644,3 +644,4 @@
         }
 
     
+
